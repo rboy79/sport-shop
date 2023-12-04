@@ -30,6 +30,11 @@ header {
     
 }
 
+.nav_item {
+    text-decoration: solid;
+    color: black;
+}
+
 .nav_item:hover {
     color: #850910;
 }
